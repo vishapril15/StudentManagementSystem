@@ -9,7 +9,7 @@ namespace StudentManagementSystem.DTOs
         public string Name { get; set; }
 
         [Required]
-        [EmailAddress]
+        [EmailAddress]  
         public string Email { get; set; }
 
         [Range(18, 60)]
