@@ -55,7 +55,7 @@ Update-Database
 ### 6. Open Swagger
 
 ```
-https://localhost:<port>/swagger
+https://localhost:72010/swagger
 ```
 
 ---
